@@ -13,7 +13,7 @@ Per the BootcampSpot assignment:
 I started the assignment by inspecting the CSV files to note commonalities between the files, then proceeded to create an Entity Relationship Diagram (ERD).
 
 ### Data Engineering
-Once I finalized the ERD, I prepared a table schema that creates 6 tables. I designated a primary key for each table and ensured that foreign keys were correctly refercing their respective primary tables. I accurately defined the data type and value length for all columns.
+Once I finalized the ERD, I prepared a table schema that creates 6 tables. I designated a primary key for each table and ensured that foreign keys were correctly refercing their respective primary tables. I accurately defined the data type and value length for all columns. Afterward, I imported the data into appropriate tables from the CSV files.
 
 ### Data Analysis
 I created queries that provide data for below prompts:
